@@ -1,3 +1,23 @@
+#text {
+    background-color: #000000;
+    text-align: center;
+    position: relative;
+    color: #ffffff;
+    margin-left: 40%;
+    margin-right: 40%;
+
+}
+
+#text2 {
+    background-color: #000000;
+    text-align: center;
+    position: relative;
+    color: #ffffff;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+
 #Test {
     background-color:rgb(255, 255, 255);
     text-align: center;
@@ -10,7 +30,7 @@
 .div1 {
     float: left;
     text-align: center;
-    width: 100px;
+    width: 100px; 
     height: 100px;
     background-color:black;
     color: white;
